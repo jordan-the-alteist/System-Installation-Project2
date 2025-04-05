@@ -12,6 +12,7 @@ I first checked if SSH was already installed. I opened **Terminal** and ran:
 ssh -V
 ```
 Since SSH is built into macOS, it was already there. 
+
 ![images](images/image1.png)
 ---
 
@@ -29,6 +30,7 @@ I didn’t have a key yet, so I created one with:
 ```sh
 ssh-keygen -t rsa -b 4096 -C tomisinolayinka22@gmail.com
 ```
+
 ![images](images/image2.png)
 ---
 ## 3. Installing Visual Studio Code (VSCode)
