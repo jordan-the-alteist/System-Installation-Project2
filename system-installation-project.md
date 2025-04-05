@@ -43,7 +43,7 @@ To make sure I could open VSCode from the terminal, I did this:
    ```sh
    code --version
    ```
-![images](./images/image3.png)
+![Alt text](images/image1.png)
 ---
 
 
